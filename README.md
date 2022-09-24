@@ -12,39 +12,42 @@ Finish time: 3:08
 
 Actual time needed to complete: 8 min
 
-Number and name of feature: ________________________________
+## About Me Page
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr?
 
-Start time: _____
+Start time: 3:15
 
-Finish time: _____
+Finish time: 3:50
 
-Actual time needed to complete: _____
-Number and name of feature: ________________________________
+Actual time needed to complete: 35 min
 
-Estimate of time needed to complete: _____
+## Projects Section
 
-Start time: _____
+Estimate of time needed to complete: 1 hr
 
-Finish time: _____
+Start time: 3:51
 
-Actual time needed to complete: _____
-Number and name of feature: ________________________________
+Finish time: 4:36
 
-Estimate of time needed to complete: _____
+Actual time needed to complete: 45 min
 
-Start time: _____
+## Skills and Experience Section
 
-Finish time: _____
+Estimate of time needed to complete: 25 min
 
-Actual time needed to complete: _____
-Number and name of feature: ________________________________
+Start time: 4:40
 
-Estimate of time needed to complete: _____
+Finish time: 4:57
 
-Start time: _____
+Actual time needed to complete: 17 min
 
-Finish time: _____
+## Style
 
-Actual time needed to complete: _____
+Estimate of time needed to complete: 30 min
+
+Start time: 5:05
+
+Finish time: 5:38
+
+Actual time needed to complete: 30 min
