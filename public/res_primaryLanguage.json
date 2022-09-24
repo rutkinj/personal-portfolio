@@ -76,37 +76,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Student Developer",
+        "years": "5.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML5",
+          "CSS3"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "DeLaruenti Food and Wine",
+        "title": "Cheesemonger",
+        "years": "09.2016 - 09.2021",
         "mainTech": [
-          "Angular 7/8"
+          "Customer Service"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Communication",
+          "Customer Interfacing",
+          "Training",
+          "Health and Safety"
         ]
       }
     ]
