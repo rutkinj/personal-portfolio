@@ -7,11 +7,11 @@ body[data-theme="dark"] {
    }
 
    .title-styles {
-      color: white;
+      color: #8be9fd;
    }
-
+ 
    .header-icon {
-      color: #3C342C;
+      color: #ff79c6;
       opacity: 0.8;
    }
 
@@ -33,9 +33,9 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: #282a36;
       h1 {
-         color: white;
+         color: #50fa7b;
       }
    }
 
@@ -45,45 +45,46 @@ body[data-theme="dark"] {
          color: white;
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #44475a;
       }
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #44475a;
+         color: #bd93f9;
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #44475a;
       .section-title {
-         color: white !important;
+         color: #bd93f9 !important;
       }
       .foto div {
          background: #6d6d6d;
       }
       .project-title-settings {
-         color: white;
+         color: #bd93f9;
       }
    }
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #44475a;
       .section-title {
-         color: white !important;
+         color: #ff79c6 !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
-         color: white;
+         background: #44475a !important;
+         color: #ff79c6;
       }
 
       .main-badge {
-         background: #919191 !important;
+         background: #282a36 !important;
+         color: #8be9fd;
       }
 
       .vertical-timeline-element-date {
-         color: white;
+         color: #ff79c6;
       }
 
       .vertical-timeline-element-icon {
@@ -97,8 +98,8 @@ body[data-theme="dark"] {
    }
 
    .modal-inside .modal-content {
-      background: #5b5b5b;
-      color: white;
+      background: #44475a;
+      color: #8be9fd;
    }
 
    .close-icon {
